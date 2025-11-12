@@ -1,0 +1,1 @@
+Full setup instructions\n\n1) Install dependencies\n  Backend: cd backend; npm install\  Frontend: cd frontend; npm install\\n2) Create .env from .env.example\n3) Start backend: npm run dev\  Start frontend: npm run dev\\n4) Use MongoDB (local or Atlas).\n
